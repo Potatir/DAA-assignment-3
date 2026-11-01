@@ -1,0 +1,7 @@
+Graph,Vertices,Edges,Algorithm,AvgTimeMs,MSTWeight,Connected,EdgesExamined,Comparisons,StructOps,TotalOps
+Small,10,30,Kruskal,0.0284,259.12,true,10,173,62,245
+Small,10,30,Prim,0.0218,259.12,true,60,140,30,230
+Medium,100,500,Kruskal,0.2460,1265.02,true,326,4970,2788,8084
+Medium,100,500,Prim,0.1890,1265.02,true,1000,3834,464,5298
+Large,1000,5000,Kruskal,2.3840,12324.10,true,3588,66672,31326,101586
+Large,1000,5000,Prim,1.7420,12324.10,true,10000,54290,4778,69068
